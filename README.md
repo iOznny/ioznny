@@ -36,8 +36,7 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
+<h3 align="center">🚀 Connect with me 🚀</h3>
   <a href="https://www.linkedin.com/in/satyam-goyal26/">
     <img align="left" alt="Cesar Candia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
