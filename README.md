@@ -4,7 +4,7 @@
 </em></p>
 
 <div>
-  <img width="50%" height="500px" align="right" src="https://github.com/iOznny/ioznny/blob/main/dinotocat.png" alt="Dino Cat">
+  <img width="30%" height="300px" align="right" src="https://github.com/iOznny/ioznny/blob/main/dinotocat.png" alt="Dino Cat">
 
   
 <div align="left"> 
