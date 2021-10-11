@@ -1,7 +1,6 @@
 ### Hi there 
 
-
-**iOznny/ioznny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there! ###I'm Cesar Candia 👋 </h1>
 
 Here are some ideas to get you started:
 
@@ -15,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓</h2>
 
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
 
-<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
+
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
