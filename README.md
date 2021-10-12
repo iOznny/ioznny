@@ -38,7 +38,7 @@
 
 
 <h3 align="center">🚀 Connect with me 🚀</h3>
-  <a href="www.linkedin.com/in/cesarcandia/">
+  <a href="https://linkedin.com/in/cesarcandia/">
     <img align="center" alt="Cesar Candia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
