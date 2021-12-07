@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Cesar Candia 👋 </h1>
-<p align="center"><em>Software Engineer in <a href="https://stregasystem.com">Strega System</a>, <a href="https://carcentral.mx">Carcentral</a>, <a href="https://automotrizbalderrama.com">Automotriz Balderrama</a> and <a href="https://abcars.mx">ABCars</a>
+<p align="center"><em>Software Engineer in <a href="https://stregasystem.com" target="_blank">Strega System</a>, <a href="https://carcentral.mx" target="_blank">Carcentral</a>, <a href="https://automotrizbalderrama.com" target="_blank">Automotriz Balderrama</a> and <a href="https://abcars.mx" target="_blank">ABCars</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -40,11 +40,11 @@
 
 <div align="center">
   <h3 align="center">🚀 Connect with me 🚀</h3>
-  <a href="https://linkedin.com/in/cesarcandia/">
+  <a href="https://linkedin.com/in/cesarcandia/" target="_blank">
     <img align="center" alt="Cesar Candia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://twitter.com/CesarCandiac40">
+  <a href="https://twitter.com/CesarCandiac40" target="_blank">
     <img align="center" alt="Cesar Candia | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
   </a> &nbsp;&nbsp;
 
