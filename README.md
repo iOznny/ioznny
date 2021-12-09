@@ -44,10 +44,6 @@
     <img align="center" alt="Cesar Candia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://twitter.com/CesarCandiac40" target="_blank">
-    <img align="center" alt="Cesar Candia | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-  </a> &nbsp;&nbsp;
-
   <a href="mailto:f000170014@gmail.com">
     <img align="center" alt="Cesar Candia | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>
