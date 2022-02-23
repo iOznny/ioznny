@@ -10,7 +10,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and more.
-  - 🎓 &nbsp; Studying Computer Science and Engineering.
+  - 🎓 &nbsp; Graduated from Computer Systems.
   - 💼 &nbsp; I'm currently working on Full Stack Development projects but my favorite area is Frontend.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; In my hobbies it is gaming, listening to music, playing a musical instrument and space. 
