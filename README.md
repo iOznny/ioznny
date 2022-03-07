@@ -39,9 +39,9 @@
 
 <div align="center">
   <h3 align="center">🚀 Connect with me 🚀</h3>
-  <a href="https://linkedin.com/in/cesarcandia/" target="_blank">
+  <!---<a href="https://linkedin.com/in/cesarcandia/" target="_blank">
     <img align="center" alt="Cesar Candia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
+  </a> &nbsp;&nbsp;--->
 
   <a href="mailto:f000170014@gmail.com">
     <img align="center" alt="Cesar Candia | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
