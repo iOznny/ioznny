@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Cesar Candia 👋 </h1>
+<h1 align="center">Hi, I'm Cesar Candia 👋 </h1>
 <p align="center"><em>Software Engineer in <a href="https://stregasystem.com" target="_blank">Strega System</a>, <a href="https://carcentral.mx" target="_blank">Carcentral</a>, <a href="https://automotrizbalderrama.com" target="_blank">Automotriz Balderrama</a> and <a href="https://abcars.mx" target="_blank">ABCars</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -24,26 +24,11 @@
 <div align="center">
   <h3 align="center">🚀 Developer Tools and Languages 🚀</h3>
   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-  <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
   <a src="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
   <a src="https://laravel.com/"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>  
   <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
   <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
   <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-  <a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>  
   <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-</div>
-
-<br>
-
-<div align="center">
-  <h3 align="center">🚀 Connect with me 🚀</h3>
-  <!---<a href="https://linkedin.com/in/cesarcandia/" target="_blank">
-    <img align="center" alt="Cesar Candia | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;--->
-
-  <a href="mailto:f000170014@gmail.com">
-    <img align="center" alt="Cesar Candia | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a>
 </div>
