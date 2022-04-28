@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Cesar Candia 👋 </h1>
-<p align="center"><em>Software Engineer in <a href="https://stregasystem.com" target="_blank">Strega System</a>, <a href="https://carcentral.mx" target="_blank">Carcentral</a>, <a href="https://automotrizbalderrama.com" target="_blank">Automotriz Balderrama</a> and <a href="https://abcars.mx" target="_blank">ABCars</a>
+<h1 align="center">Hello, I'm Cesar Candia 👋 </h1>
+<p align="center"><em>Software Engineer in <a href="https://stregasystem.com" target="_blank">Strega System</a>, <a href="https://carcentral.mx" target="_blank">Carcentral</a>, <a href="https://automotrizbalderrama.com" target="_blank">Automotriz Balderrama</a> and <a href="https://abcars.mx" target="_blank">ABCars.mx</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
