@@ -25,6 +25,8 @@
   <h3 align="center">🚀 Developer Tools and Languages 🚀</h3>
   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
   <a src="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
+  <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+  <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
   <a src="https://laravel.com/"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>  
   <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
   <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
