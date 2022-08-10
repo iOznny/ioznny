@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Cesar Candia 👋 </h1>
-<p align="center"><em>Software Developer, collaboration with projects like <a href="https://stregasystem.com" target="_blank">Strega System</a>, <a href="https://carcentral.mx" target="_blank">Carcentral</a>, <a href="https://abcars.mx" target="_blank">ABCars.mx</a> and <a href="https://axity.com" target="_blank">Axity</a>
+<p align="center"><em>Software Developer, collaboration with projects like <a href="https://stregasystem.com" target="_blank">Strega System</a>, <a href="https://carcentral.mx" target="_blank">Carcentral</a>, <a href="https://abcars.mx" target="_blank">ABCars.mx</a> and working now in <a href="https://axity.com" target="_blank">Axity</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
