@@ -11,10 +11,11 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and more.
   - 🎓 &nbsp; Graduated from Computer Systems.
-  - 💼 &nbsp; I'm currently working on Full Stack Development projects but my favorite area is Frontend.
+  - 💼 &nbsp; I'm currently working on Software Developer in Frontend with Angular.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; In my hobbies it is gaming, listening to music, playing a musical instrument and space. 
   - ⚡ &nbsp; One of my favorite programming languages is Javascript.
+  - ⚡ &nbsp; I just want to be spiderman.
   </div> 
 </div>
 
@@ -22,15 +23,15 @@
 <br>
 
 <div align="center">
-  <h3 align="center">🚀 Developer Tools and Languages 🚀</h3>
-  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+  <h3 align="center">🚀 Developer Tools and Languages 🚀</h3>  
   <a src="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
   <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
   <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
   <a src="https://laravel.com/"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>  
-  <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+  <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>  
   <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
   <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+  <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
   <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 </div>
