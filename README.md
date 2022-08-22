@@ -24,9 +24,10 @@
 
 <div align="center">
   <h3 align="center">🚀 Developer Tools and Languages 🚀</h3>  
-  <a src="https://angular.io/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50px"/></a>
+  <a src="https://angular.io/"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50px" height="40" /></a>
   <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png" /></a>
   <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png" /></a>
+  <a href="https://ionicframework.com"><img src="https://ionicframework.com/img/meta/logo.png" width="40" height="40" />
   <a src="https://laravel.com/"><img src="https://img.icons8.com/fluency/48/000000/laravel.png" /></a>  
   <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png" /></a>  
   <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png" /></a>
@@ -34,4 +35,5 @@
   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png" /></a>
   <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" /></a>
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" /></a>
+  <a src="https://www.w3schools.com/html/"><img src="https://www.svgrepo.com/show/331300/aws.svg" width="40" height="40" /></a>    
 </div>
