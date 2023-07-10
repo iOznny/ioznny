@@ -15,7 +15,7 @@
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   - ✍️ &nbsp; In my hobbies it is gaming, listening to music, playing a musical instrument and space. 
   - ⚡ &nbsp; One of my favorite programming languages is Javascript.
-  - ⚡ &nbsp; I just want to be spiderman.
+  - 🕸️ &nbsp; I just want to be spiderman.
   </div> 
 </div>
 
