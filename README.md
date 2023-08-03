@@ -37,3 +37,9 @@
   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png" /></a>
   <a src="https://www.w3schools.com/html/"><img src="https://www.svgrepo.com/show/331300/aws.svg" width="40" height="40" /></a>    
 </div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,docker,kubernetes,angular,vue,react,mysql,postman,laravel,nodejs,js,mongodb,ts&perline=21" />
+  </a>
+</p>
