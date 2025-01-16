@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I'm Cesar Candia 👋 </h1>
 
 <p align="center">
-  <em>Software Engineer at Frontend, collaboration with projects like 
+  <em>Frontend Software Engineer, collaborating in projects <br>
+    such as 
     <a href="https://stregasystem.com" target="_blank">Strega System</a>, 
-    <a href="https://carcentral.mx" target="_blank">Carcentral</a>, 
-    <a href="https://abcars.mx" target="_blank">ABCars.mx</a><br> and i worked in 
-    <a href="https://axity.com" target="_blank">Axity</a>. 
-    I currently work as a frontend engineer at <a href="https://www.ids.com.mx/" target="_blank">IDS Comercial</a>.
+    <a href="https://abcars.mx" target="_blank">ABCars.mx</a>, 
+    developed part of <br> 
+    the <a href="https://acomerclub.com.mx" target="_blank">A Comer Club</a> 
+    rewards program, as well as consultant <br> for the Pension system for 
+    <a href="https://www.banamex.com" target="_blank">Citibanamex</a>.
+    
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
